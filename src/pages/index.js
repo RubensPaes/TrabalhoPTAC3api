@@ -21,7 +21,7 @@ export default function Home() {
          <p className={styles.description}>
          Para acessar as cotações atuais acesse: 
           <Link href="/cotacao">
-          Ir para cotacao
+           Ir para cotacao
         </Link>
         </p>
       </main>
